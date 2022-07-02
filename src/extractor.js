@@ -1,7 +1,7 @@
 const Stream      = require('stream')
 const Block       = require('block-stream2')
 const debug       = require('debug')('extractor')
-const Gist        = require('@mathquis/node-gist')
+const Gist        = require('@hakerzp/node-gist')
 const Utils       = require('./utils')
 
 class FeatureExtractor extends Stream.Transform {
