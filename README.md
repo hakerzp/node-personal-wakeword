@@ -5,13 +5,13 @@ Based on https://medium.com/snips-ai/machine-learning-on-voice-a-gentle-introduc
 ### Installation
 
 ```bash
-npm i @mathquis/node-personal-wakeword
+npm i @hakerzp/node-personal-wakeword
 ```
 
 ### Usage
 
 ```javascript
-const WakewordDetector = require('@mathquis/node-personal-wakeword')
+const WakewordDetector = require('@hakerzp/node-personal-wakeword')
 const Mic              = require('mic')
 const Stream           = require('stream')
 
