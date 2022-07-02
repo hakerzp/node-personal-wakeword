@@ -1,5 +1,5 @@
 {
-  "name": "@mathquis/node-personal-wakeword",
+  "name": "@hakerzp/node-personal-wakeword",
   "version": "1.1.1",
   "description": "Personal wake word detector",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@mathquis/node-gist": "^1.0.3",
+    "@hakerzp/node-gist": "^1.0.6",
     "block-stream2": "^2.0.0",
     "debug": "^4.3.1",
     "node-vad": "^1.1.4"
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathquis/node-personal-wakeword.git"
+    "url": "git+https://github.com/hakerzp/node-personal-wakeword.git"
   },
   "author": "Mathieu \"Fastjack\" Quisefit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mathquis/node-personal-wakeword/issues"
+    "url": "https://github.com/hakerzp/node-personal-wakeword/issues"
   },
-  "homepage": "https://github.com/mathquis/node-personal-wakeword#readme"
+  "homepage": "https://github.com/hakerzp/node-personal-wakeword#readme"
 }
